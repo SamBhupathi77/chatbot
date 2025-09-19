@@ -1,0 +1,9 @@
+keybert
+supabase
+boto3
+langchain
+langchain-community
+langchain-aws
+sentence-transformers
+gdown
+python-dotenv
